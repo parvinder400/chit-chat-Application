@@ -1,0 +1,17 @@
+{
+    "Continue":"Continue",
+    "ChatApp":"Chat App",
+    "SignIn":"Sign In",
+    "SignInwithgoolge":"Sign In With Google",
+    "welcomeSignin":"Welcome! Please Sign in",
+    "userHint":"User Name",
+    "validuser":"    Plese enter Valid Username",
+    "emailHint":"Enter Email",
+    "validemail":"Plese Provide a valid Email",
+    "PassHint": "Enter Password",
+    "validpass":"Please Provide Valid Password",
+    "DontHaveAccount":"Don't Have Account",
+    "Registernow":"Register Now",
+    "signup":"Sign Up",
+    "alreadyhaveaccout":"Already have account?"
+}
